@@ -1,0 +1,10 @@
+.*~
+.*.*~
+.idea
+*.auto.tfvars
+.terraform/
+terraform.tfvars
+*tfstate*
+tmp/
+*.txt
+*.json
